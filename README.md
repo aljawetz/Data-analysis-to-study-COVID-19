@@ -1,6 +1,8 @@
 # Data analysis to study COVID-19
 Using Biopython and Matplotlib libraries and the I-TASSER online tool to study the SARS-CoV-2 genome and one of its protein: the Membrane Glycoprotein.
 
+https://nbviewer.jupyter.org/github/aljawetz/Data-analysis-to-study-COVID-19/blob/master/COVID_19.ipynb
+
 This project was made for study purposes only. If you find any errors, please let me know.
 
 ## Contributing
